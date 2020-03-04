@@ -1,0 +1,5 @@
+.next/
+.now/
+.vscode/
+node_modules/
+Dockerfile

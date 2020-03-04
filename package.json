@@ -1,0 +1,42 @@
+{
+  "name": "nextjs-bootstrap",
+  "version": "1.0.0",
+  "description": "Quick bootstraping React Server-side Rendering with NextJS Framework and Bootstrap 4",
+  "main": "index.js",
+  "author": "Kendy Hoang",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "DEBUG=app:* next -p 8080",
+    "build": "next build",
+    "start": "next start -p $PORT",
+    "lint": "eslint --ext .jsx --ext .js src/",
+    "prettier": "prettier --write src/**/*.{js,jsx,json}"
+  },
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "cross-fetch": "^3.0.4",
+    "debug": "^4.1.1",
+    "moment": "^2.24.0",
+    "next": "^9.2.1",
+    "react": "^16.12.0",
+    "react-bootstrap": "^1.0.0-beta.16",
+    "react-dom": "^16.12.0",
+    "utf8": "^3.0.0"
+  },
+  "keywords": [
+    "react",
+    "bootstrap",
+    "boilerplate",
+    "javascript",
+    "JSX",
+    "nextjs",
+    "minimal"
+  ],
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.8.0",
+    "eslint-plugin-react": "^7.18.3",
+    "prettier": "^1.19.1"
+  }
+}
