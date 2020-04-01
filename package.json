@@ -34,7 +34,7 @@
     "minimal"
   ],
   "devDependencies": {
-    "babel-eslint": "^10.0.3",
+    "babel-eslint": "^10.1.0",
     "eslint": "^6.8.0",
     "eslint-plugin-react": "^7.18.3",
     "prettier": "^1.19.1"
