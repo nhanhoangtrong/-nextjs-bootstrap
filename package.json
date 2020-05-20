@@ -17,7 +17,7 @@
     "classnames": "^2.2.6",
     "cross-fetch": "^3.0.4",
     "debug": "^4.1.1",
-    "moment": "^2.24.0",
+    "moment": "^2.26.0",
     "next": "^9.2.1",
     "react": "^16.12.0",
     "react-bootstrap": "^1.0.0-beta.16",
