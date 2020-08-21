@@ -1,28 +1,28 @@
-# NextJS Bootstrap 4
+# NextJS Boostraping
 
-Bootstrap 4 your NextJS projects.
+Bootstraping your NextJS projects with pre-configurated source code.
 
 ## 1. Prerequisites
 
--   Node >= 8.10.0
--   Yarn >= 1.5.0
+- Node >= 8.10.0
+- Yarn >= 1.5.0
 
 ## 2. Installation
 
--   Clone repository:
+- Clone repository:
 
 ```sh
 git clone git@github.com:nhanhoangtrong/nextjs-bootstrap.git
 ```
 
--   Change to working directory
--   Run bootstraping command:
+- Change to working directory
+- Run bootstraping command:
 
 ```sh
 yarn
 ```
 
--   Start development server with:
+- Start development server with:
 
 ```sh
 yarn dev

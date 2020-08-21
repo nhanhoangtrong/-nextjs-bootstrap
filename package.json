@@ -1,7 +1,7 @@
 {
   "name": "nextjs-bootstrap",
   "version": "1.0.0",
-  "description": "Quick bootstraping React Server-side Rendering with NextJS Framework and Bootstrap 4",
+  "description": "Quick bootstraping React Server-side Rendering with NextJS Framework and TailwindCSS",
   "main": "index.js",
   "author": "Kendy Hoang",
   "license": "MIT",
