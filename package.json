@@ -20,7 +20,7 @@
     "moment": "^2.24.0",
     "next": "^9.5.2",
     "next-seo": "^4.7.3",
-    "postcss": "^7.0.32",
+    "postcss": "^8.1.8",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "tailwindcss": "^1.7.3",
